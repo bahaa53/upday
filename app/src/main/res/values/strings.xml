@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UpdayTask</string>
+    <string name="no_internet_connection"> No Internt Connection</string>
+    <string name="error_occured"> An Error Occured</string>
+    <string name="access_token">bearer v2/QTJES2tsaFh3enhON3lvUGplTWlaeGNBWk5iY2ZoYlEvMzEzOTE0Mjc0L2N1c3RvbWVyLzQvd1pzelZKeXdfVGZEUDI3LXZOTzZqMXBzNGIwSFQ4MEdTM2ZKS1JSblR1NlgtbzhrTFA5NVJJMV9QQkJEUEVKc2gtQXVISEptOTR0MllDY2JaMUVDN2hZd3k3b1diLWVXREpoQ05MMUFTUFJLTG4zTUdLTUFmWnhaeDR5b3h3OVl2TTVWeENNZVlUbzh2SDJxQWlYcWh2clFWWGdid0tUeFdVNVhZVndKMWVtRzVIaHJUdTFXQWRYdDhlNlVWUUJpdkQ3RHp0QkRDRFllU2JMb2RjYzdoQS9tQ2R3MlZvN29TdDVDOHdPVm1hODRn</string>
+</resources>
